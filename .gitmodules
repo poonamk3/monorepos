@@ -1,3 +1,6 @@
 [submodule "figs"]
 	path = figs
 	url = https://github.com/poonamk3/fig.git
+[submodule "gyanas"]
+	path = gyanas
+	url = https://github.com/poonamk3/gyana.git
