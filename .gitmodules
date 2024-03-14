@@ -1,0 +1,3 @@
+[submodule "figs"]
+	path = figs
+	url = https://github.com/poonamk3/fig.git
